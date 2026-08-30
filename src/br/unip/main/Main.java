@@ -1,5 +1,9 @@
-package br.unip.builder;
+package br.unip.main;
 
+
+import br.unip.builder.Pedido;
+import br.unip.builder.Produto;
+import br.unip.builder.Usuario;
 
 import static br.unip.enums.Status.*;
 import static br.unip.enums.FormaPagamento.*;
