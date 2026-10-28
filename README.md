@@ -65,7 +65,7 @@ README.md
 
 ### Banco de dados
 1. Instale o MySQL
-2. Execute o arquivo `banco.sql` no seu cliente MySQL
+2. Execute o arquivo `backup_sistema.sql` no seu cliente MySQL
 3. Ajuste as credenciais de acesso em `/br/unip/dao/Conexao.java`
 
 ### Projeto
